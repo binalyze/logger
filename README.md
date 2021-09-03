@@ -1,5 +1,5 @@
 # logger
-logger package is a log management tool which has helper functions to log into file.
+`logger` is an easily customizable wrapper for logrus with log rotation
 
 ## Usage
 There is only one function to initialize logger.
